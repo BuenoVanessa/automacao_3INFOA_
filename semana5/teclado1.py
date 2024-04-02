@@ -12,3 +12,5 @@ pyautogui.write('Vanessabueno!', interval=0.5)
 
 #Clica no campo acessar 
 pyautogui.click(880, 582, duration=0.2)
+
+835 400

@@ -1,2 +1,3 @@
 from funcoes import entrada
-print("A entrada digitada é:", entrada)
+valor_retornado = entrada("Exemplo")
+print("O valor retornado pelo usuário é:", valor_retornado)

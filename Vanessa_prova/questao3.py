@@ -10,7 +10,7 @@ def calcular_total_compras():
     total = 0.0
     
     while True:
-        preco_produto = input("Digite o preço do produto (ou '=' para finalizar): ")
+        preco_produto = input("Digite o preço do produto (ou '=' para finalizar): ") #.lower converte os caracteres para minusculas
         
         if preco_produto.lower() == '=':
             break
